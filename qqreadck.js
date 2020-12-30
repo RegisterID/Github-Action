@@ -14,14 +14,14 @@ boxjs链接      https://raw.githubusercontent.com/ziye12/JavaScript/master/Task
 //请先确定boxjs已经存在ck，想要导出哪个值，就设置为1
 
 const body=1
-const timeurl=0
-const timeheader=0
+const timeurl=1
+const timeheader=1
 const GG=''//默认为换行，也可以将需要隔开的符号填写在''内
 
 
 let K = 1;//从哪个账号开始
 
-let Z = 20;//到哪个账号结束
+let Z = 12;//到哪个账号结束
 
 
 
